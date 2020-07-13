@@ -1,0 +1,17 @@
+getoption-to select a particular language
+
+display-to display jumbled sentence
+
+select-to select a word 
+
+check-to check the correctness
+
+clear- to clear particular words
+
+reform-rearrange once again
+
+getans-check the answer
+
+retry-if answer is wrong then try once again the same sentence
+
+tryonemore-another sentence

@@ -1,0 +1,28 @@
+body { 
+   background-color: white;
+     }
+select {
+   vertical-align: middle;
+   font-size : 100%;
+   position : relative;
+   left : 700px;
+   top : 60px;
+   
+       }
+
+#message {
+   vertical-align: middle;
+   font-size : 30px;
+   position : relative;
+   left : 300px;
+   top : 100px;
+   color: blue;
+}
+#message1 {
+   vertical-align: middle;
+   font: italic 22px/30px Times New Roman, serif;
+   position : relative;
+   left : 580px;
+   top : 110px;
+   color: blue;
+}

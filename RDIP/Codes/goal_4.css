@@ -1,0 +1,62 @@
+ select {
+    vertical-align: middle;
+    font-size:100%;
+    position: relative;
+    left: 650px;
+    top:60px;
+    
+}
+#message
+{ 
+    position: relative;
+    
+    top:100px; 
+    text-align: center;
+    font-weight: bold;
+    color: #0000AA;
+    font-size: 20px;
+    
+}
+#message1
+{ 
+    position: relative;
+    top:95px; 
+    text-align: center;
+    color:blue;
+    font-style: italic;
+    font-size: 18px;    
+}
+
+#nav-buttons
+{
+    position: relative;;
+    top:250px; 
+    text-align: center;
+  
+}
+#disp1
+{ 
+    position: relative;
+    top:170px; 
+    font-size: 20px;  
+    text-align: center;  
+}
+
+
+button
+{   
+    text-align: center;
+    margin-right:16px;
+}
+
+#disp2
+{
+    position: relative;
+    top:160px; 
+    font-size: 30px; 
+    color: darkslategrey;
+    font-weight: bold;
+    text-align:center;
+
+
+}

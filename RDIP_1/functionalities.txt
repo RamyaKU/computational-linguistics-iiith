@@ -1,0 +1,17 @@
+Functionalities :
+   * A dropdown menu "select Corpus" should be displayed.
+   * It should contain 3 options Corpus1,Corpus2 and Corpus3.
+   * If nothing is selected then an alert message saying select a corpus should be displayed.
+   * Then selecting any one corpus leads to the respective paragraphs.
+   * It should also ask the user to "Enter number of tokens and types for the selected corpus".
+   * Two boxes should be present after the paragraph to take the number of tokens and  types enter by the user as input.
+   * A Submit button just after the above boxes should be present.
+   * Onclicking submit button user provided answers should be validate.
+   * If both the answers are correct then the background colour of both the boxes turns to green.
+   * "Right Answes" will be displayed.
+   * Then below that there will be another button saying   'Continue'.
+   * Onclicking Continue button it will disppear and "Now, consider all the tokens with the same 'root' word to be of the same type.
+   * Recalculate the number of types.
+   * Again  will ask for the user to enter new types and below that there is a submit button
+   * If the answer is correct it will display Right answer.
+   * If any one answer is wrong then the background colour of both the boxes turns red.
